@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7545F17-60D8-4983-AE18-EB7A8C6465D6}|ManageStudent.csproj|c:\\users\\isuru lakshan\\downloads\\it-web-23-63-0013-k.h.b.i.l.gunawardhana-q2\\managestudent\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7545F17-60D8-4983-AE18-EB7A8C6465D6}|ManageStudent.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7545F17-60D8-4983-AE18-EB7A8C6465D6}|ManageStudent.csproj|c:\\users\\isuru lakshan\\downloads\\it-web-23-63-0013-k.h.b.i.l.gunawardhana-q2\\managestudent\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7545F17-60D8-4983-AE18-EB7A8C6465D6}|ManageStudent.csproj|solutionrelative:model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7545F17-60D8-4983-AE18-EB7A8C6465D6}|ManageStudent.csproj|c:\\users\\isuru lakshan\\downloads\\it-web-23-63-0013-k.h.b.i.l.gunawardhana-q2\\managestudent\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7545F17-60D8-4983-AE18-EB7A8C6465D6}|ManageStudent.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7545F17-60D8-4983-AE18-EB7A8C6465D6}|ManageStudent.csproj|c:\\users\\isuru lakshan\\downloads\\it-web-23-63-0013-k.h.b.i.l.gunawardhana-q2\\managestudent\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7545F17-60D8-4983-AE18-EB7A8C6465D6}|ManageStudent.csproj|solutionrelative:pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7545F17-60D8-4983-AE18-EB7A8C6465D6}|ManageStudent.csproj|c:\\users\\isuru lakshan\\downloads\\it-web-23-63-0013-k.h.b.i.l.gunawardhana-q2\\managestudent\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E7545F17-60D8-4983-AE18-EB7A8C6465D6}|ManageStudent.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7545F17-60D8-4983-AE18-EB7A8C6465D6}|ManageStudent.csproj|c:\\users\\isuru lakshan\\downloads\\it-web-23-63-0013-k.h.b.i.l.gunawardhana-q2\\managestudent\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7545F17-60D8-4983-AE18-EB7A8C6465D6}|ManageStudent.csproj|solutionrelative:pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7545F17-60D8-4983-AE18-EB7A8C6465D6}|ManageStudent.csproj|c:\\users\\isuru lakshan\\downloads\\it-web-23-63-0013-k.h.b.i.l.gunawardhana-q2\\managestudent\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7545F17-60D8-4983-AE18-EB7A8C6465D6}|ManageStudent.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7545F17-60D8-4983-AE18-EB7A8C6465D6}|ManageStudent.csproj|c:\\users\\isuru lakshan\\downloads\\it-web-23-63-0013-k.h.b.i.l.gunawardhana-q2\\managestudent\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7545F17-60D8-4983-AE18-EB7A8C6465D6}|ManageStudent.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\Pages\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\Pages\\Students\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T16:20:07.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\Pages\\About.cshtml",
+              "RelativeDocumentMoniker": "Pages\\About.cshtml",
+              "ToolTip": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\Pages\\About.cshtml",
+              "RelativeToolTip": "Pages\\About.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T13:41:11.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T13:32:05.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:46:13.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "Model\\Course.cs",
+              "ToolTip": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\Model\\Course.cs",
+              "RelativeToolTip": "Model\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:33:06.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T08:47:55.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-23T07:11:00.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Isuru Lakshan\\Downloads\\IT-WEB-23-63-0013-K.H.B.I.L.Gunawardhana-Q2\\ManageStudent\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T07:00:15.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
